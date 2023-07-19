@@ -1,0 +1,17 @@
+{
+  "name": "mocha_sample",
+  "version": "1.0.0",
+  "description": "'test script to implement mocha'",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha --recusive --no-timeout"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0",
+    "selenium": "^2.20.0",
+    "selenium-webdriver": "^4.10.0"
+  }
+}
