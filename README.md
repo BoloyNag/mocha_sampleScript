@@ -1,9 +1,10 @@
 # Project Title
 
+
 A Javascript Selenium test framework using Mocha and Chai
 
 
-### Prerequisites
+## Prerequisites
 
 Requirements for the software and other tools to run the test
 - [Selenium](https://www.selenium.dev/)
@@ -11,12 +12,12 @@ Requirements for the software and other tools to run the test
 - [Visual Studio Code](https://code.visualstudio.com/?wt.mc_id=vscom_downloads)
   
 
-### Test Scenario
+## Test Scenario
 
 User opens google and searches for Selenium and clicks on the first matching link and validates the opening title of the official selenium site
 
 
-### Installing
+## Installing
 
 After successfully installing node and an IDE, use the following command to install all the libraries required for running the test framework
 
