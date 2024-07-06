@@ -1,4 +1,4 @@
-# Project Title
+# JavaBlend Test Framework
 
 
 A Javascript Selenium test framework using Mocha and Chai
